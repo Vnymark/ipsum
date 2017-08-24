@@ -54,3 +54,18 @@
   color: #fff; }
   #video-play a {
     color: #fff; }
+
+#page-header {
+  height: 200px;
+  background: url("../img/img1.png");
+  background-size: cover;
+  color: #fff;
+  border-bottom: 1px #eee solid; }
+  #page-header .container {
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 200px;
+    position: absolute; }
+
+#about img {
+  margin-top: -50px; }
