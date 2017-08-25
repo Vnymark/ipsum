@@ -91,3 +91,12 @@ $dark-overlay:rgba(0,0,0,0.7);
     margin-top:-50px;
   }
 }
+
+#faq.bg-dark{
+  background:#444;
+  color:#fff;
+    a{
+      color:#fff;
+      text-decoration:none;
+    }
+}

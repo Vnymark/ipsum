@@ -69,3 +69,10 @@
 
 #about img {
   margin-top: -50px; }
+
+#faq.bg-dark {
+  background: #444;
+  color: #fff; }
+  #faq.bg-dark a {
+    color: #fff;
+    text-decoration: none; }
